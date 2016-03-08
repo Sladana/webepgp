@@ -1,0 +1,1 @@
+joomla componet for displaying epgp on the web
